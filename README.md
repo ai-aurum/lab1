@@ -1,2 +1,2 @@
 # lab1
-readme
+This is an edit to the README file in the new created codespace.
